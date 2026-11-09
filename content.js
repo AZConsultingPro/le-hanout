@@ -1,15 +1,15 @@
 /* Le Hanout — contenu pédagogique, 8 novembre 2026. */
 window.HANOUT = {
-  version: '1.0.0',
+  version: '1.1.0',
   root: 'https://drive.google.com/drive/folders/1aJ8bxLvIZW_MwmrWaVCotDhk_1ZBGB9Y',
   teachers: 'Mme A. Miri et A. Zeboudj',
   phases: ['Nous organiser', 'Observer et rechercher', 'Comparer et préparer', 'Présenter et décider'],
   services: [
     {id:'achats',name:'Achats et approvisionnement',short:'Achats',icon:'box',color:'#e7ba53',people:['Benissa','Ilyana','Assiya'],folder:'1csojHtX4g6pBSANogVpzfPyjdzayW4Lw',goal:'Proposer une petite offre, justifiée par le stock, les besoins et des prix comparables.',deliver:'Inventaire, comparatif fournisseurs, proposition d’achats et présentation Slides.'},
     {id:'espace',name:'Point de vente et merchandising',short:'Point de vente',icon:'store',color:'#d8967b',people:['Adam','Islam','Lionel'],folder:'1iZSQaEnHrxiC7UJP2wDzN3tCF7JxSoDb',goal:'Proposer un espace accueillant, pratique et réalisable à partir de mesures et de matériel vérifiés.',deliver:'Relevé de l’espace, compte rendu technique, deux propositions et budget mobilier.'},
-    {id:'vente',name:'Vente et relation client',short:'Relation client',icon:'chat',color:'#a4b6d3',people:['Titli','Farel'],folder:'1S1jMLcUy9LKyi96DIuFnVZjZPGUs3JqZ',goal:'Construire un questionnaire compréhensible pour découvrir les besoins des lycéens.',deliver:'Questionnaire Docs, test corrigé, Google Forms prêt à valider et présentation Slides.'},
-    {id:'communication',name:'Communication et image',short:'Communication',icon:'spark',color:'#b0bba0',people:['Chaïma','Jana','Issam'],folder:'1kXxNK5o9Abo9zCFdeOZskipCxuuXs7Mi',goal:'Expliquer l’identité du Hanout et rendre ses messages clairs et cohérents.',deliver:'Travaux existants organisés, brief, charte simple, visuels et présentation Slides.'},
-    {id:'gestion',name:'Gestion et développement',short:'Développement',icon:'chart',color:'#baa9cc',people:['Selmene','Maxime'],folder:'1QNL9y1fn_B05LzFl0DaXl8fsluvfi7h_',goal:'Construire un budget et identifier des partenaires ou financeurs adaptés aux besoins réels.',deliver:'Budget à 1 500 €, comparaison des aides, argumentaire et présentation Slides.'}
+    {id:'vente',name:'Vente et relation client',short:'Relation client',icon:'chat',color:'#a4b6d3',people:['Titli','Farel'],folder:'1S1jMLcUy9LKyi96DIuFnVZjZPGUs3JqZ',goal:'Rencontrer élèves et adultes, comprendre leurs besoins et préparer l’accueil, la fidélité et les usages de paiement.',deliver:'Enquête Docs et Forms, journal des rencontres, synthèse clients, procédure d’accueil et proposition de fidélité.'},
+    {id:'communication',name:'Communication et image',short:'Communication',icon:'spark',color:'#b0bba0',people:['Chaïma','Jana','Issam'],folder:'1kXxNK5o9Abo9zCFdeOZskipCxuuXs7Mi',goal:'Expliquer l’identité du Hanout et rendre ses messages clairs et cohérents.',deliver:'Identité argumentée, charte, fidélité avec Vente, plan de communication et journal du projet.'},
+    {id:'gestion',name:'Gestion et développement',short:'Développement',icon:'chart',color:'#baa9cc',people:['Selmene','Maxime'],folder:'1QNL9y1fn_B05LzFl0DaXl8fsluvfi7h_',goal:'Construire un budget et identifier des partenaires ou financeurs adaptés aux besoins réels.',deliver:'Budget à 1 500 €, partenaires et financements, comparatif des paiements, argumentaire et présentation Slides.'}
   ],
   // Une tâche = un objectif vérifiable. Les quatre phases ont chacune quatre tâches.
   common1: [

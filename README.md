@@ -15,4 +15,11 @@ Le site public ne reçoit ni mots de passe, ni réponses de quiz, ni productions
 ## Continuité
 Le support original du 6 octobre 2026 est conservé sans modification dans `archives/`.
 
-Version : 8 novembre 2026. Mme A. Miri et A. Zeboudj.
+Version : 9 novembre 2026. Mme A. Miri et A. Zeboudj.
+
+## Cahiers des charges et ateliers
+Chaque service possède six livrables, quatre jalons et ses rattachements. La page Les services présente l’organigramme et les échanges. Les ateliers ajoutent des gestes cochables, tableaux et trames téléchargeables. Cinq questions locales par étape sont exportées avec la progression ; elles restent distinctes des vingt Forms existants, conservés sans modification.
+
+Les identifiants des 16 étapes et le format de sauvegarde restent compatibles. Les anciennes étapes cochées ne sont pas effacées : les élèves et enseignants doivent examiner les compléments ajoutés.
+
+La piste graphique, avec lettrage Aref Ruqaa et corne d’abondance, est une inspiration provisoire pour Communication. La licence de la police est fournie dans assets/.
