@@ -1,6 +1,6 @@
 /* Le Hanout — contenu pédagogique, 8 novembre 2026. */
 window.HANOUT = {
-  version: '1.1.2',
+  version: '1.2.0',
   root: 'https://drive.google.com/drive/folders/1aJ8bxLvIZW_MwmrWaVCotDhk_1ZBGB9Y',
   teachers: 'Mme A. Miri et A. Zeboudj',
   phases: ['Nous organiser', 'Observer et rechercher', 'Comparer et préparer', 'Présenter et décider'],
@@ -313,13 +313,17 @@ window.HANOUT = {
       'Cliquez « Mon bilan ». Relisez les étapes déclarées et décrivez ce que vous avez personnellement fait, vérifié et appris.',
       'Ajoutez une difficulté, une décision attendue et votre prochaine action. Ne déclarez pas un travail qui n’a pas eu lieu.',
       'Téléchargez votre compte rendu puis votre sauvegarde de progression. Conservez les deux fichiers sur l’ordinateur.',
-      'Ouvrez Suivi des séances / votre prénom dans le Drive du service. Importez les deux fichiers puis vérifiez leur présence.',
+      'Dans le Drive du service, déposez le compte rendu dans Suivi des séances / votre prénom et le JSON dans Progression Équipe / votre prénom. Vérifiez la présence de chaque fichier.',
       'À la prochaine séance, téléchargez la sauvegarde depuis Drive si nécessaire et choisissez « Reprendre une sauvegarde » dans l’application.'
     ],'Un compte rendu lisible et une sauvegarde de reprise déposés dans Drive.','Les fichiers portent votre prénom et la date ; ils s’ouvrent et sont accessibles aux enseignants.','drive',true]
   ]
 };
 
 window.HANOUT.lexicon = {
+    'agile':['Avancer par petites étapes, vérifier puis ajuster grâce aux retours.','Nous montrons un premier tableau avant de le compléter.'],
+    'asynchrone':['Travailler à des moments différents en laissant des traces compréhensibles.','Le collègue absent peut reprendre grâce au dossier partagé et au compte rendu.'],
+    'accountable':['Être comptable du résultat : le suivre, alerter et rendre des comptes.','Le chef de service répond des livrables ; chaque membre participe et répond de sa contribution.'],
+    'document partagé':['Un même fichier accessible aux personnes autorisées selon leurs droits.','Avec un accès général Limité, avoir le lien ne suffit pas : il faut une autorisation.'],
  'partenaire':['Personne ou organisation qui aide le projet avec du matériel, du temps, des conseils, des contacts ou de l’argent.','Une entreprise qui donne une étagère peut devenir partenaire.'],
  'financeur':['Personne ou organisme qui apporte de l’argent à un projet.','Une aide financière doit avoir des conditions et un usage connus.'],
  'fournisseur':['Organisation qui propose les produits ou services dont nous avons besoin.','Une enseigne peut fournir des marchandises au lycée.'],
