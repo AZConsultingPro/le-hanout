@@ -1,6 +1,6 @@
 /* Le Hanout — contenu pédagogique, 8 novembre 2026. */
 window.HANOUT = {
-  version: '1.2.0',
+  version: '1.3.0',
   root: 'https://drive.google.com/drive/folders/1aJ8bxLvIZW_MwmrWaVCotDhk_1ZBGB9Y',
   teachers: 'Mme A. Miri et A. Zeboudj',
   phases: ['Nous organiser', 'Observer et rechercher', 'Comparer et préparer', 'Présenter et décider'],

@@ -25,9 +25,15 @@ Les identifiants des 16 étapes et le format de sauvegarde restent compatibles. 
 La piste graphique, avec lettrage Aref Ruqaa et corne d’abondance, est une inspiration provisoire pour Communication. La licence de la police est fournie dans assets/.
 
 ## Compréhension dans Google Forms
-Les cinq questions de chaque étape sont aussi proposées dans Google Forms : dix questionnaires communs et trente questionnaires de service, reliés à un suivi individuel dans le classeur enseignant privé. Les anciens vingt questionnaires de séance restent disponibles en complément.
+Les questionnaires de chaque étape sont aussi proposés dans Google Forms : dix questionnaires communs et trente questionnaires de service, reliés à un suivi individuel dans le classeur enseignant privé. Les anciens vingt questionnaires de séance restent disponibles en complément.
 
 Les scores des entraînements restent locaux ; seul un envoi dans Forms transmet les réponses. Le site ne lit pas les scores privés. Les tableaux Suivi des missions et Synthèse des missions affichent le dernier résultat envoyé pour chaque élève et étape.
 
 ## Prénoms corrigés
 Maxim et Farell remplacent les anciennes orthographes. Les sauvegardes utilisant Maxime ou Farel sont reconnues et migrées ; les notes, étapes et comptes rendus sont conservés. Les formules du suivi reconnaissent également les anciennes réponses.
+
+
+## Version 1.3.0 — Organisation
+L’étape 3 de Nous organiser avance en sept actions courtes : vote, création Docs, rangement, décision, tableau, partage et vérification. Les champs de lien se trouvent au contact des consignes. Le lien Docs est ramené à son adresse canonique sans paramètres ; aucun service de raccourcissement n’est utilisé. Les captures Google Docs sont accompagnées de repères, cadres et flèches.
+Les contributions personnelles sont cochables et conservées avec le choix du responsable dans le JSON. Les cinq questions de cette étape sont des QCU à quatre propositions, identiques dans l’entraînement local et dans le Form commun aux cinq services. Les anciennes notes restent conservées.
+Le démarrage, modifié en version 1.2.0, possède 11 QCU ; son score brut sur 11 est ramené sur 5 dans la synthèse. Les autres questionnaires restent sur 5. Le dépôt des JSON dans Drive reste manuel.
