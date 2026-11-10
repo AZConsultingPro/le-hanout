@@ -28,3 +28,6 @@ La piste graphique, avec lettrage Aref Ruqaa et corne d’abondance, est une ins
 Les cinq questions de chaque étape sont aussi proposées dans Google Forms : dix questionnaires communs et trente questionnaires de service, reliés à un suivi individuel dans le classeur enseignant privé. Les anciens vingt questionnaires de séance restent disponibles en complément.
 
 Les scores des entraînements restent locaux ; seul un envoi dans Forms transmet les réponses. Le site ne lit pas les scores privés. Les tableaux Suivi des missions et Synthèse des missions affichent le dernier résultat envoyé pour chaque élève et étape.
+
+## Prénoms corrigés
+Maxim et Farell remplacent les anciennes orthographes. Les sauvegardes utilisant Maxime ou Farel sont reconnues et migrées ; les notes, étapes et comptes rendus sont conservés. Les formules du suivi reconnaissent également les anciennes réponses.
