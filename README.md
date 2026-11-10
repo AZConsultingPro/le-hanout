@@ -22,7 +22,7 @@ Chaque service possède six livrables, quatre jalons et ses rattachements. La pa
 
 Les identifiants des 16 étapes et le format de sauvegarde restent compatibles. Les anciennes étapes cochées ne sont pas effacées : les élèves et enseignants doivent examiner les compléments ajoutés.
 
-La piste graphique, avec lettrage Aref Ruqaa et corne d’abondance, est une inspiration provisoire pour Communication. La licence de la police est fournie dans assets/.
+La piste graphique actuelle propose un lettrage compact Rakkas, sans emblème, à discuter avec Communication. La licence de la police est fournie dans assets/.
 
 ## Compréhension dans Google Forms
 Les questionnaires de chaque étape sont aussi proposés dans Google Forms : dix questionnaires communs et trente questionnaires de service, reliés à un suivi individuel dans le classeur enseignant privé. Les anciens vingt questionnaires de séance restent disponibles en complément.
@@ -43,3 +43,9 @@ Une couleur stable par service dans l’organigramme, les filtres et les échang
 Google Agenda et Gemini possèdent leurs logos et accès directs. Les outils distinguent le croquis dans Slides de la simulation IA dans Gemini. Les mots du lexique sont colorés par thème, de façon stable pendant la recherche.
 Le bilan indique où retrouver les téléchargements, comment distinguer TXT et JSON, déplacer les fichiers sur Windows ou Mac, puis importer chaque fichier dans le bon dossier Drive. Les boutons de sauvegarde précèdent l’aide détaillée.
 Logos Agenda et Gemini téléchargés depuis les ressources officielles Google. Source sur le CA : https://www.service-public.gouv.fr/particuliers/vosdroits/F1393 (consultée le 10 novembre 2026).
+
+## Version 1.5.0 — Premier document et navigation libre
+L’étape 4 de Nous organiser propose sept actions guidées, des liens directs et des captures annotées. Achats et Gestion utilisent Sheets ; les trois autres services utilisent Docs. Des trames copiables distinguent les faits, les propositions et les points à vérifier. Les champs de liens restent immédiatement sous leur consigne. Les contributions sont cochables et présentes dans le compte rendu et la sauvegarde JSON.
+Les cinq QCU à quatre propositions correspondent au Form natif commun de l’étape 4. Test réel identifié : 4/5, avec prénom et date dans le suivi privé, hors statistiques élèves. Le test est retiré des choix de prénom après contrôle.
+Toutes les séances, étapes et actions sont consultables librement, même avec un carnet vide. Ni un export ni un questionnaire ne bloque la navigation. Le pourcentage ne change que lors d’une déclaration de réalisation ; il ne mesure pas la maîtrise. La sauvegarde et le dépôt Drive restent recommandés et guidés.
+Accueil : « tenues professionnelles du lycée », lettrage réduit et slogan « Votre petite épicerie, pour les petits creux ». Police Rakkas (Google Fonts, SIL OFL), hébergée localement : https://github.com/google/fonts/tree/main/ofl/rakkas . La piste reste à examiner par Communication.
