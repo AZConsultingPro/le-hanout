@@ -49,3 +49,7 @@ L’étape 4 de Nous organiser propose sept actions guidées, des liens directs 
 Les cinq QCU à quatre propositions correspondent au Form natif commun de l’étape 4. Test réel identifié : 4/5, avec prénom et date dans le suivi privé, hors statistiques élèves. Le test est retiré des choix de prénom après contrôle.
 Toutes les séances, étapes et actions sont consultables librement, même avec un carnet vide. Ni un export ni un questionnaire ne bloque la navigation. Le pourcentage ne change que lors d’une déclaration de réalisation ; il ne mesure pas la maîtrise. La sauvegarde et le dépôt Drive restent recommandés et guidés.
 Accueil : « tenues professionnelles du lycée », lettrage réduit et slogan « Votre petite épicerie, pour les petits creux ». Police Rakkas (Google Fonts, SIL OFL), hébergée localement : https://github.com/google/fonts/tree/main/ofl/rakkas . La piste reste à examiner par Communication.
+
+## Consultation et démonstration
+Mon parcours permet de consulter les quatre séances et leurs seize étapes sans choisir de profil. Le sélecteur de service présente les cinq parcours.
+A. Miri et A. Zeboudj disposent chacun de cinq carnets de démonstration, enregistrés localement par service. Le choix d’un profil n’accorde aucun droit supplémentaire dans Google Drive ou Google Forms.
